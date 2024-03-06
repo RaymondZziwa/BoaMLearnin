@@ -8,7 +8,7 @@ function App() {
 
   const submitData = () => {
     console.log('submit Data')
-  }
+  } 
   
   const steps = [
     {
